@@ -18,7 +18,8 @@
     scroll-snap-type: y proximity;
     overflow-y: scroll;
     position: absolute;
-    visibility: hidden;
+    
+/*     visibility: hidden; */
 }
 
 .title h1 {
@@ -103,7 +104,7 @@
     height: 100vh;
     background-color: #0f4d92;
 
-    display: block;
+    display: none;
 }
 
 #paragraph h1 {
